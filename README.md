@@ -4,12 +4,12 @@
 LunchMate is a project to discover application development process using AWS.
 
 ## Member
-jomogoon
-zerok7
+* jomogoon
+* zerok7
 
 ## Scope
-AWS setup
-?
+* AWS setup
+* ?
 
 
 
